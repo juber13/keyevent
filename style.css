@@ -1,0 +1,23 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif ;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #ddd;
+}
+
+
+
+.wrapper{
+    width: 500px;   
+    height: auto;
+    text-align: center;
+    background: #ddd;
+    box-shadow: rgba(68, 66, 66, 0.35) 0px 5px 15px;
+    color: tomato;
+} 
+ 
