@@ -21,3 +21,7 @@ html,body{
     color: tomato;
 } 
  
+h1{
+    font-size: 3rem;
+  text-shadow: 3px 3px 2px rgb(153, 254, 153);
+}
